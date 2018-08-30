@@ -1,0 +1,20 @@
+{
+  "maddhruv": {
+    "name": "Dhruv Jain",
+    "class": "individual member",
+    "skills": [
+      "nodejs",
+      "react"
+    ],
+    "stream": "Web",
+    "avatar": "https://avatars0.githubusercontent.com/u/18121502?s=460&v=4",
+    "website": "https://maddhruv.github.io",
+    "email": "dhruvjainpenny@gmail.com",
+    "social": {
+      "github": "maddhruv",
+      "linkedin": "midhruvjaink",
+      "twitter": "maddhruv",
+      "medium": "maddhruv"
+    }
+  }
+}
